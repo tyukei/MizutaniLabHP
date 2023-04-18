@@ -14,7 +14,7 @@ title: 'Mizutani Lab'
 slogan: 'live with water'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Mizutani Lab is a research group at the University of Kyoto Institute Technology. We study Data Science'
+description: '水谷研究室では、データサイエンスの研究をしています'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by <a href="https://github.com/tyukei">KeitaNakata</a></p>'
