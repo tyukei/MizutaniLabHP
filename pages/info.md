@@ -1,42 +1,31 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+subheadline: 研究室概要
+teaser: 私たちの研究室は、常に最新の技術と最先端の研究に取り組んでいます
+
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
+私たちの研究室では、学生が、自分の研究に専念し、その分野での専門知識を深めることができます。また、多様なバックグラウンドを持つ人々が一緒に働くことで、異なる視点やアイデアが交換され、研究の質が向上することが期待できます。
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+私たちの研究室は、学問的な雰囲気の中で、創造的なアイデアを追求し、実現することを目指しています。私たちは常に新しいことに挑戦し、将来の世界を形作ることができるような研究を行っています。
 
 
 ## Features
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+* 実践的なデータサイエンスの学び
+実際のデータを用いて、データサイエンスの理論や手法を学ぶことができます。また、企業や研究機関との共同研究やインターンシップなどを通じて、実践的なデータサイエンスの経験を積むことができます。
+
+* 多様なバックグラウンドを持つ教員と学生
+繊維分野におけるデータサイエンス研究を行うため、多様なバックグラウンドを持つ教員や学生が集まっています。これにより、異なる視点やアイデアが交換され、研究の質が向上することが期待できます。
+
+* 学生の自主性を尊重した研究環境
+学生の自主性を尊重した研究環境を提供しています。研究テーマは自由に決定することができ、自分の興味や得意分野に応じた研究を行うことができます。また、進捗管理や発表などを通じて、自己管理能力やコミュニケーション能力を養うことができます。
 
 
 
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
 
 
  [1]: http://mademistakes.com/about/
