@@ -6,10 +6,10 @@
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
+  - title: "About"
+    url: "/about/aboutlab/"
+  - title: "Member"
+    url: "/about/member/"
   # - title: "Page/Post"
   #   url: "/design/page/"
   # - title: "Post-Left-Sidebar"

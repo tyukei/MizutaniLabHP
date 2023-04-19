@@ -8,6 +8,7 @@ categories:
 tags:
     - about
 header: no
+permalink: /about/member/
 ---
 # メンバー紹介
 

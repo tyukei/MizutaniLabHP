@@ -8,6 +8,7 @@ categories:
 tags:
     - about
 header: no
+permalink: /about/aboutlab/
 ---
 # ようこそ、水谷研究室へ
 
