@@ -51,13 +51,13 @@ header {
     background-color: #f8f8f8;
     width: 100%;
     /* 幅いっぱいを指定 */
-    height: 50px;
+    height: 80px;
     /* 高さを50pxに指定 */
     box-sizing: border-box;
     /* padding分を含んで幅を100%にするため */
     position: fixed;
     /* ウィンドウを基準に画面に固定 */
-    top: 30px;
+    top: 0;
     /* 上下の固定位置を上から0pxにする */
     left: 0;
     /* 左右の固定位置を左から0pxにする */
@@ -68,7 +68,9 @@ header {
     border-bottom: 1px solid #ccc;
     z-index: 1;
 }
-
+.header-trans{
+    margin-top: 30px
+}
 header h1 {
     font-size: 32px;
 }
