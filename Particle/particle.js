@@ -27,7 +27,16 @@ window.onload = function () {
             selector: '.particle-background',
             sizeVariations: 10,
             color: ['#00bbdd', '#404B69', '#DBEDF3'],
-            connectParticles: true
+            connectParticles: true,
+            // レスポンシブ用ブレイクポイントとパーティクル値を配列で設定できる
+            responsive: [
+                {
+                breakpoint: 768,
+                options: {
+                    maxParticles: 10,
+                }
+                },
+            ]
         }
     );
 };

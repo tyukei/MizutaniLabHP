@@ -29,7 +29,16 @@ window.onload = function () {
             sizeVariations: 3,
             speed: 1,
             color: ['#D0D0D0', '#BBBBBB', '#EEEEEE'],
-            connectParticles: true
+            connectParticles: true,
+            // レスポンシブ用ブレイクポイントとパーティクル値を配列で設定できる
+            responsive: [
+                {
+                breakpoint: 768,
+                options: {
+                    maxParticles: 10,
+                }
+                },
+            ]
         }
     );
 };

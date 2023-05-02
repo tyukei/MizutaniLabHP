@@ -30,7 +30,16 @@ window.onload = function () {
             speed: 0.3,
             color: ['#D0D0D0', '#FFE5B4', '#BBBBBB'],
             connectParticles: true,
-            minDistance: 300
+            minDistance: 300,
+            // レスポンシブ用ブレイクポイントとパーティクル値を配列で設定できる
+            responsive: [
+                {
+                breakpoint: 768,
+                options: {
+                    maxParticles: 10,
+                }
+                },
+            ]
         }
     );
 };
